@@ -2,6 +2,3 @@
 name = "kyoryu-king"
 version = "0.1.0"
 description = "Kyoryu King Dex"
-
-[tool.ballsdex]
-package = "kyoryu_app"
