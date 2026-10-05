@@ -1,1 +1,5 @@
-
+[[ballsdex.packages]]
+location = ""
+path = "kyoryu_app"
+enabled = true
+editable = true
